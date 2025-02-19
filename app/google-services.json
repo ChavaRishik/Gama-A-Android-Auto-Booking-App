@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "896084184511",
+    "firebase_url": "https://gama-2785b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gama-2785b",
+    "storage_bucket": "gama-2785b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896084184511:android:09cae07d140e1b754ae50a",
+        "android_client_info": {
+          "package_name": "com.rishi.gama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896084184511-4e2entobftn2156r19onef6sdb79mmhd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rishi.gama",
+            "certificate_hash": "1a79b1db4e2b3e61581093b23f68f09cb51a332e"
+          }
+        },
+        {
+          "client_id": "896084184511-o02khpa83rrkce6qop17tp706vcv25kk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rishi.gama",
+            "certificate_hash": "7088afd65c5480cf5ff880c616dfd9226a18e090"
+          }
+        },
+        {
+          "client_id": "896084184511-akb79j247rv2th8qmei62bk4i0gt2tbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw1QluJp_hV8jRVc_w8FoD5nIyoLuZPR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896084184511-akb79j247rv2th8qmei62bk4i0gt2tbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
